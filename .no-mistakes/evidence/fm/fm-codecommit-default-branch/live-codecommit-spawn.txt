@@ -1,0 +1,65 @@
+# lab=/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g
+remote: remote: Counting objects: 0        remote: Counting objects: 203        remote: Counting objects: 203        remote: Counting objects: 203, done.        
+Receiving objects:   0% (1/203)Receiving objects:   1% (3/203)Receiving objects:   2% (5/203)Receiving objects:   3% (7/203)Receiving objects:   4% (9/203)Receiving objects:   5% (11/203)Receiving objects:   6% (13/203)Receiving objects:   7% (15/203)Receiving objects:   8% (17/203)Receiving objects:   9% (19/203)Receiving objects:  10% (21/203)Receiving objects:  11% (23/203)Receiving objects:  12% (25/203)Receiving objects:  13% (27/203)Receiving objects:  14% (29/203)Receiving objects:  15% (31/203)Receiving objects:  16% (33/203)Receiving objects:  17% (35/203)Receiving objects:  18% (37/203)Receiving objects:  19% (39/203)Receiving objects:  20% (41/203)Receiving objects:  21% (43/203)Receiving objects:  22% (45/203)Receiving objects:  23% (47/203)Receiving objects:  24% (49/203)Receiving objects:  25% (51/203)Receiving objects:  26% (53/203)Receiving objects:  27% (55/203)Receiving objects:  28% (57/203)Receiving objects:  29% (59/203)Receiving objects:  30% (61/203)Receiving objects:  31% (63/203)Receiving objects:  32% (65/203)Receiving objects:  33% (67/203)Receiving objects:  34% (70/203)Receiving objects:  35% (72/203)Receiving objects:  36% (74/203)Receiving objects:  37% (76/203)Receiving objects:  38% (78/203)Receiving objects:  39% (80/203)Receiving objects:  40% (82/203)Receiving objects:  41% (84/203)Receiving objects:  42% (86/203)Receiving objects:  43% (88/203)Receiving objects:  44% (90/203)Receiving objects:  45% (92/203)Receiving objects:  46% (94/203)Receiving objects:  47% (96/203)Receiving objects:  48% (98/203)Receiving objects:  49% (100/203)Receiving objects:  50% (102/203)Receiving objects:  51% (104/203)Receiving objects:  52% (106/203)Receiving objects:  53% (108/203)Receiving objects:  54% (110/203)Receiving objects:  55% (112/203)Receiving objects:  56% (114/203)Receiving objects:  57% (116/203)Receiving objects:  58% (118/203)Receiving objects:  59% (120/203)Receiving objects:  60% (122/203)Receiving objects:  61% (124/203)Receiving objects:  62% (126/203)Receiving objects:  63% (128/203)Receiving objects:  64% (130/203)Receiving objects:  65% (132/203)Receiving objects:  66% (134/203)Receiving objects:  67% (137/203)Receiving objects:  68% (139/203)Receiving objects:  69% (141/203)Receiving objects:  70% (143/203)Receiving objects:  71% (145/203)Receiving objects:  72% (147/203)Receiving objects:  73% (149/203)Receiving objects:  74% (151/203)Receiving objects:  75% (153/203)Receiving objects:  76% (155/203)Receiving objects:  77% (157/203)Receiving objects:  78% (159/203)Receiving objects:  79% (161/203)Receiving objects:  80% (163/203)Receiving objects:  81% (165/203)Receiving objects:  82% (167/203)Receiving objects:  83% (169/203)Receiving objects:  84% (171/203)Receiving objects:  85% (173/203)Receiving objects:  86% (175/203)Receiving objects:  87% (177/203)Receiving objects:  88% (179/203)Receiving objects:  89% (181/203)Receiving objects:  90% (183/203)Receiving objects:  91% (185/203)Receiving objects:  92% (187/203)Receiving objects:  93% (189/203)Receiving objects:  94% (191/203)Receiving objects:  95% (193/203)Receiving objects:  96% (195/203)Receiving objects:  97% (197/203)Receiving objects:  98% (199/203)Receiving objects:  99% (201/203)Receiving objects: 100% (203/203)Receiving objects: 100% (203/203), 31.46 KiB | 397.00 KiB/s, done.
+Resolving deltas:   0% (0/69)Resolving deltas:   1% (1/69)Resolving deltas:   2% (2/69)Resolving deltas:   4% (3/69)Resolving deltas:   5% (4/69)Resolving deltas:   7% (5/69)Resolving deltas:   8% (6/69)Resolving deltas:  10% (7/69)Resolving deltas:  11% (8/69)Resolving deltas:  13% (9/69)Resolving deltas:  14% (10/69)Resolving deltas:  15% (11/69)Resolving deltas:  17% (12/69)Resolving deltas:  18% (13/69)Resolving deltas:  20% (14/69)Resolving deltas:  21% (15/69)Resolving deltas:  23% (16/69)Resolving deltas:  24% (17/69)Resolving deltas:  26% (18/69)Resolving deltas:  27% (19/69)Resolving deltas:  28% (20/69)Resolving deltas:  30% (21/69)Resolving deltas:  31% (22/69)Resolving deltas:  33% (23/69)Resolving deltas:  34% (24/69)Resolving deltas:  36% (25/69)Resolving deltas:  37% (26/69)Resolving deltas:  39% (27/69)Resolving deltas:  40% (28/69)Resolving deltas:  42% (29/69)Resolving deltas:  43% (30/69)Resolving deltas:  44% (31/69)Resolving deltas:  46% (32/69)Resolving deltas:  47% (33/69)Resolving deltas:  49% (34/69)Resolving deltas:  50% (35/69)Resolving deltas:  52% (36/69)Resolving deltas:  53% (37/69)Resolving deltas:  56% (39/69)Resolving deltas:  57% (40/69)Resolving deltas:  59% (41/69)Resolving deltas:  60% (42/69)Resolving deltas:  62% (43/69)Resolving deltas:  63% (44/69)Resolving deltas:  66% (46/69)Resolving deltas:  68% (47/69)Resolving deltas:  69% (48/69)Resolving deltas:  71% (49/69)Resolving deltas:  72% (50/69)Resolving deltas:  75% (52/69)Resolving deltas:  76% (53/69)Resolving deltas:  78% (54/69)Resolving deltas:  79% (55/69)Resolving deltas:  82% (57/69)Resolving deltas:  84% (58/69)Resolving deltas:  85% (59/69)Resolving deltas:  86% (60/69)Resolving deltas:  89% (62/69)Resolving deltas:  91% (63/69)Resolving deltas:  92% (64/69)Resolving deltas:  94% (65/69)Resolving deltas:  95% (66/69)Resolving deltas:  97% (67/69)Resolving deltas:  98% (68/69)Resolving deltas: 100% (69/69)Resolving deltas: 100% (69/69), done.
+$ git ls-remote --symref origin HEAD
+44252eb196e50257986abcca26812d6dbfe2eb75	HEAD
+$ git remote set-head origin --auto
+error: Multiple remote HEAD branches. Please choose one explicitly with:
+  git remote set-head origin java17
+  git remote set-head origin main
+# branches sharing HEAD's commit:
+  origin/ReportBugPrioritySupportFeature
+  origin/java17
+  origin/main
+  origin/mirrorsync6
+  origin/mirrorsync7
+  origin/ssb_conflicts_20251008_ham-1798
+  origin/ssb_mirrorsync_conflicts_20250821
+  origin/tomcat11
+  origin/youtrack
+# origin/main tip=44252eb196e50257986abcca26812d6dbfe2eb75 ; pool starts at origin/main~1=c9744ec8d76aec114a9964779a12015cc7f14431
+
+## scenario: BEFORE fix (base 19fcbbd): CodeCommit origin, no token
+$ [registry: none] [aws env: operator AWS CLI config] base/bin/fm-spawn.sh live-before-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+error: could not resolve origin's current default branch for pooled worktree '/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool'; refusing to launch from a potentially stale base
+exit=1
+pool HEAD=c9744ec8d76aec114a9964779a12015cc7f14431 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => NOT moved to origin/main
+origin/HEAD -> unset
+
+## scenario: AFTER fix: CodeCommit origin, real AWS API answers
+$ [registry: none] [aws env: operator AWS CLI config] 01M4GA500WKFHK2Q72GM4Q06DQ/bin/fm-spawn.sh live-api-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+spawned live-api-r1 harness=codex kind=ship mode=no-mistakes yolo=off window=firstmate:fm-live-api-r1 worktree=/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool
+exit=0
+pool HEAD=44252eb196e50257986abcca26812d6dbfe2eb75 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => on origin/main tip
+origin/HEAD -> origin/main
+
+## scenario: AFTER fix: API answer beats a registered (stale) default-branch=tomcat11
+$ [registry: no-mistakes default-branch=tomcat11] [aws env: operator AWS CLI config] 01M4GA500WKFHK2Q72GM4Q06DQ/bin/fm-spawn.sh live-api-beats-token-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+spawned live-api-beats-token-r1 harness=codex kind=ship mode=no-mistakes yolo=off window=firstmate:fm-live-api-beats-token-r1 worktree=/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool
+exit=0
+pool HEAD=44252eb196e50257986abcca26812d6dbfe2eb75 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => on origin/main tip
+origin/HEAD -> origin/main
+
+## scenario: AFTER fix: AWS credentials unavailable, registered default-branch=main fallback
+$ [registry: no-mistakes default-branch=main] [aws env: AWS CLI config+credentials files empty (no creds)] 01M4GA500WKFHK2Q72GM4Q06DQ/bin/fm-spawn.sh live-token-fallback-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+spawned live-token-fallback-r1 harness=codex kind=ship mode=no-mistakes yolo=off window=firstmate:fm-live-token-fallback-r1 worktree=/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool
+exit=0
+pool HEAD=44252eb196e50257986abcca26812d6dbfe2eb75 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => on origin/main tip
+origin/HEAD -> origin/main
+
+## scenario: AFTER fix: AWS credentials unavailable and no token -> refuse
+$ [registry: none] [aws env: AWS CLI config+credentials files empty (no creds)] 01M4GA500WKFHK2Q72GM4Q06DQ/bin/fm-spawn.sh live-refuse-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+error: could not resolve origin's current default branch for pooled worktree '/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool': git could not infer it (Multiple remote HEAD branches. Please choose one explicitly with:); aws codecommit get-repository for 'ProscAmazonCloudWatch' failed with exit status 253 (check the AWS CLI's credentials and region); register the project's default branch as default-branch=<branch> in its data/projects.md entry; refusing to launch from a potentially stale base
+exit=1
+pool HEAD=c9744ec8d76aec114a9964779a12015cc7f14431 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => NOT moved to origin/main
+origin/HEAD -> unset
+
+## scenario: AFTER fix: AWS unavailable, registered branch absent on origin -> refuse
+$ [registry: no-mistakes default-branch=nope] [aws env: AWS CLI config+credentials files empty (no creds)] 01M4GA500WKFHK2Q72GM4Q06DQ/bin/fm-spawn.sh live-bad-token-r1 /var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/ProscAmazonCloudWatch --mode no-mistakes --yolo off
+error: could not resolve origin's current default branch for pooled worktree '/var/folders/40/_p5jzpj17cg67r3kjz2_1x400000gs/T//fm-lab.WhWG1g/pool': git could not infer it (Multiple remote HEAD branches. Please choose one explicitly with:); aws codecommit get-repository for 'ProscAmazonCloudWatch' failed with exit status 253 (check the AWS CLI's credentials and region); the registered default-branch=nope for ProscAmazonCloudWatch is not a branch on origin; register the project's default branch as default-branch=<branch> in its data/projects.md entry; refusing to launch from a potentially stale base
+exit=1
+pool HEAD=c9744ec8d76aec114a9964779a12015cc7f14431 (origin/main=44252eb196e50257986abcca26812d6dbfe2eb75) => NOT moved to origin/main
+origin/HEAD -> unset
+
+# lab removed: yes
